@@ -56,7 +56,7 @@ export {addCart , getAddedToCart }
 
 
 
-#Tab Button Toggle (Ex, Cart - Wishlist)
+# Tab Button Toggle (Ex, Cart - Wishlist)
 
 main.jsx
 
